@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Cocktail Recipe Website](https://github.com/naomipate/Personal-Portfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Advanced DataStructures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naomipate?tab=repositories](https://github.com/naomipate?tab=repositories)
 
-- 💬 Ask me about **html, css, javascript, c, c++, java**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, React, Express, PostgreSQL, C, C++, Java**
 
 - 📫 How to reach me **patenaomi99@gmail.com**
 
