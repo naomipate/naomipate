@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naomipate" alt="naomipate" /></a> </p>
 
-- 🔭 I’m currently working on [Cocktail Recipe Website](https://github.com/naomipate/Personal-Portfolio)
+- 🔭 I’m currently working on [Giftune - Capstone Project]([https://github.com/naomipate/Personal-Portfolio](https://giftune.netlify.app/))
 
 - 🌱 I’m currently learning **Advanced DataStructures and Algorithms**
 
